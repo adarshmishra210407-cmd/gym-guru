@@ -1,0 +1,8 @@
+{
+  "name": "Shadow Fit: The System",
+  "description": "A Solo-Leveling inspired RPG Calisthenics & Life-Upgrade System. Train, Eat, and Level Up your real-life stats.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
